@@ -1,0 +1,7 @@
+".\Objects\main.obj",
+".\Objects\uart.obj",
+".\Objects\servo.obj",
+".\Objects\sensor.obj",
+".\Objects\delay.obj" 
+TO ".\Objects\SMARTCAR" 
+PRINT(".\Listings\SMARTCAR.m51") RAMSIZE(256) 
